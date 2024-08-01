@@ -2,7 +2,8 @@
 
 
 ## Overview
-This repo contains a script to simulate spatially explicit population trends during the nonbreeding part of the species' life cycle, then simulates migration dynamics across North America (which creates an emergent pattern of observed population trends along migration routes).
+
+This repo contains a script to simulate spatially explicit population trends during the stationary (i.e., "wintering" or breeding) part of the species' life cycle, then simulates migration dynamics across North America (which creates an emergent pattern of observed population trends along migration routes).
 
 Simulations rely on eBird relative abundance maps to characterize preferred migration routes and relative abundance in nonbreeding areas.
 
