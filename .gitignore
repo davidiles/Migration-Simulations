@@ -1,0 +1,8 @@
+
+*.Rhistory
+*.Rdata
+*.rds
+*.RDS
+*.csv
+AdamCSmithCWS-Shorebird_Migration_Trends-cdf9e9a/
+data/
